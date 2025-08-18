@@ -1,11 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-
+package Ejercicio1_Automovil;
 /**
  *
- * @author Haru
+ * @author Mathias Alonso
+ * @version 15/08/2025
  */
 public class AppAuto {
     public static void main(String[] args){
